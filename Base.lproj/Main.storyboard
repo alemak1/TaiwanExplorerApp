@@ -14,10 +14,6 @@
         <scene sceneID="VMS-mS-G8C">
             <objects>
                 <viewController id="l9R-DC-qB3" customClass="MapViewController" customModule="CurrencyConverter" customModuleProvider="target" sceneMemberID="viewController">
-                    <mapView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" id="VX1-wP-6mG">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    </mapView>
                     <tabBarItem key="tabBarItem" title="Map" image="MapIcon" id="PTV-tT-MeE"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8kY-QL-Pd2" userLabel="First Responder" sceneMemberID="firstResponder"/>
